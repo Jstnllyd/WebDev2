@@ -11,12 +11,16 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Jstnllyd/WebDev2.git"
+    "url": "git+https://github.com/Jstnllyd/WebDev2.git"
   },
   "dependencies": {
     "@linclark/pkg": "^1.0.3",
     "how-to-npm": "^2.5.1"
   },
   "devDependencies": {},
-  "description": "Few words in it."
+  "description": "Few words in it.",
+  "bugs": {
+    "url": "https://github.com/Jstnllyd/WebDev2/issues"
+  },
+  "homepage": "https://github.com/Jstnllyd/WebDev2#readme"
 }
