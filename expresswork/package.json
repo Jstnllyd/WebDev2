@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "expressworks": "^3.4.3",
-    "pug": "^2.0.4"
+    "pug": "^3.0.1"
   }
 }
